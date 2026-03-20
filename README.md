@@ -17,3 +17,4 @@ and Sales Executives account for a significant portion of the turnover. These in
 enable stakeholders to implement targeted retention programs for high-risk segments."
 
 ![image alt](https://github.com/Mahendra2525/HR-DATA-Analysis/blob/17436fb0b8589d716a15ea0a67134e1b9822946b/HR%20Data.png)
+![image alt](https://github.com/Mahendra2525/HR-DATA-Analysis/blob/87ad13251437c47b48fbc80e4716b5ce008561bf/HR%20DATA%20PBI.png)
