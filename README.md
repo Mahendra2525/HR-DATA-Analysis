@@ -16,3 +16,4 @@ This is the most important part for recruiters. Briefly explain what the data sh
 and Sales Executives account for a significant portion of the turnover. These insights 
 enable stakeholders to implement targeted retention programs for high-risk segments."
 
+![image alt](https://github.com/Mahendra2525/HR-DATA-Analysis/blob/17436fb0b8589d716a15ea0a67134e1b9822946b/HR%20Data.png)
